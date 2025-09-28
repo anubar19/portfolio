@@ -4,7 +4,7 @@
 [View Page](./asl_robotic_arm.md)
 
 # Emotive Robot
-![Project 1](Files/EmotiveBot.png)
+<img src="Files/EmotiveBot.png" width="500" height="550">
 
 [View Page](./emotive_robot.md)
 
