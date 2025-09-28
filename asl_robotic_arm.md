@@ -11,7 +11,7 @@ The ASL Robotic Arm uses image detection to recognize certain letters and displa
 
 <!---**Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.** -->
 
-<img src="Files/FinalHeadshot.png" width="680" height="719">
+<img src="Files/FinalHeadshot.png" width="680" height="700">
 
 # Demo Night
 
