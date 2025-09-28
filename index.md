@@ -1,6 +1,5 @@
 # ASL Robotic Hand
-![Project 2](Files/ASLBotFinal.png)
-
+<img src="Files/ASLBotFinal.png" width="400" height="600">
 [View Page](./asl_robotic_arm.md)
 
 # Emotive Robot
