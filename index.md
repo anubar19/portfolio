@@ -1,7 +1,7 @@
-[ASL Robotic Hand](./asl_robotic_arm.md).
+[ASL Robotic Hand](./asl_robotic_arm.md)
 
-[Emotive Robot](./emotive_robot.md).
+[Emotive Robot](./emotive_robot.md)
 
-[Speakers](./speakers.md).
+[Speakers](./speakers.md)
 
-[Automata](./automata.md).
+[Automata](./automata.md)
