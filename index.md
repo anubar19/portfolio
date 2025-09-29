@@ -8,7 +8,10 @@
 
 [View Page](./emotive_robot.md)
 
-[Aviation Emissions](./aviation_emissions.md)
+# Patents
+MACHINE LEARNING MODEL BASED EMISSIONS OPTIMIZATION CONTROLLER FOR HYBRID POWERED AIRCRAFTS (Patent-pending)
+
+A ROBOTIC SIMULTANEOUS MULTI-MODAL COMMUNICATIONS ASSISTANT AND TRAINER FOR MEDICAL CLINICIANS (Patent-pending)
 
 [Speakers](./speakers.md)
 
