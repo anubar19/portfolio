@@ -14,6 +14,11 @@ MACHINE LEARNING MODEL BASED EMISSIONS OPTIMIZATION CONTROLLER FOR HYBRID POWERE
 A ROBOTIC SIMULTANEOUS MULTI-MODAL COMMUNICATIONS ASSISTANT AND TRAINER FOR MEDICAL CLINICIANS (Patent-pending)
 
 # Robotics (Team 12478X, Bobaionics)
+<img src="Files/clydee.png" width="300" height="500">
+
+<img src="Files/bonnie.png" width="300" height="500">
+
+<img src="Files/bella.png" width="300" height="500">
 
 # Speakers
 <img src="Files/speaker1.png" width="600" height="500">
