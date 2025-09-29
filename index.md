@@ -8,6 +8,8 @@
 
 [View Page](./emotive_robot.md)
 
+[Aviation Emissions](./aviation_emissions.md)
+
 [Speakers](./speakers.md)
 
-[Automata](./automata.md)
+
