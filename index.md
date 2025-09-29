@@ -16,6 +16,10 @@ A ROBOTIC SIMULTANEOUS MULTI-MODAL COMMUNICATIONS ASSISTANT AND TRAINER FOR MEDI
 # Robotics (Team 12478X, Bobaionics)
 
 # Speakers
+<img src="Files/speaker1.png" width="600" height="500">
+
+<img src="Files/speaker3.png" width="600" height="500">
+
 
 # Other Projects
 
