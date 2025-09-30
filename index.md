@@ -40,7 +40,7 @@ Proposal Slides
     src="https://www.canva.com/design/DAG0bHJUonU/lswZ0qXqCw1GQnm_LVLukA/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAG0bHJUonU&#x2F;lswZ0qXqCw1GQnm_LVLukA&#x2F;view?utm_content=DAG0bHJUonU&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Design</a> by Anusha Barave
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAG0bHJUonU&#x2F;lswZ0qXqCw1GQnm_LVLukA&#x2F;view?utm_content=DAG0bHJUonU&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">View Slides</a> 
 
 ## Rubberband-powered Plane
 <img src="Files/plane.png" width="600" height="300">
