@@ -42,8 +42,12 @@ Proposal Slides
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAG0bHJUonU&#x2F;lswZ0qXqCw1GQnm_LVLukA&#x2F;view?utm_content=DAG0bHJUonU&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">View Slides</a> 
 
+A prototype water-purification tablet made using cactus mucilage, designed as a low-cost, accessible solution for removing impurities from water. The project focused on developing a natural, sustainable method for improving water quality, combining simple preparation with effective filtration.
+
 ## Rubberband-powered Plane
 <img src="Files/plane.png" width="600" height="300">
+
+A lightweight flying model powered by elastic energy: this plane uses a rubber band-driven propeller, wing and tail structures, and a stub assembly to translate stored energy into flight. Built from simple materials, its design emphasizes balance, aerodynamic form, and structural stability so that the model flies reliably and smoothly.
 
 ## Automata
 <img src="Files/automata.png" width="200" height="400">
@@ -51,4 +55,6 @@ Proposal Slides
 <img src="Files/cam_cad.png" width="400" height="200">
 
 <img src="Files/blossom_cad.png" width="400" height="200">
+
+A hand-cranked mechanical automaton built from wood and 3D-printed components. Using a crank and cam system, it generates smooth, repeating motion in a compact frame.
 
