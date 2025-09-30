@@ -20,11 +20,14 @@ A ROBOTIC SIMULTANEOUS MULTI-MODAL COMMUNICATIONS ASSISTANT AND TRAINER FOR MEDI
 
 <img src="Files/bella.png" width="300" height="500">
 
+Robots built in collaboration with my team for competitive robotics. Each machine features custom-designed mechanisms for tasks such as lifting, intaking, and precise control, powered by integrated motors, sensors, and programmed systems. Built for performance under competition rules, these robots balance durability, speed, and adaptability on the field.
+
 # Speakers
 <img src="Files/speaker1.png" width="600" height="500">
 
 <img src="Files/speaker3.png" width="600" height="500">
 
+Hand-assembled speakers built from quality components and enclosures. I focused on careful construction, wiring, and finishing to achieve reliable performance and a clean look. While based on established designs, the build process gave me hands-on experience with audio hardware and an appreciation for how craftsmanship impacts sound.
 
 # Other Projects
 
