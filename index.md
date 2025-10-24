@@ -1,5 +1,5 @@
 ---
-layout: default
+title: "Anusha Barave Portfolio"
 ---
 
 # ASL Robotic Hand
