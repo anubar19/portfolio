@@ -37,14 +37,22 @@ Hand-assembled speakers built from quality components and enclosures. I focused 
 ## Solar Charger
 <img src="Files/solar_charger.png" width="600" height="300">
 
+A solar-powered USB charger that stores and delivers renewable energy: this circuit uses a photovoltaic panel to charge a 3.7 V lithium-polymer battery and a DC–DC converter to boost the voltage to a steady 5 V output. The charger features a protected LiPo cell, regulated current flow, and insulated housing to prevent overheating or damage. Built through soldering and precise circuit layout, the project highlights efficient power conversion and practical energy storage design.
+
 ## Useless Box
 <iframe src="https://drive.google.com/file/d/1nA2bQneGOgi17HOmr5WODcjLTr9x6Gkh/preview" width="480" height="640" allow="autoplay"></iframe>
+
+A playful electromechanical device that turns itself off: when the switch on top of the box is flipped “on,” a small motor-driven arm emerges, presses the switch back to “off,” and retracts inside. Powered by three AA batteries and controlled through a circuit of DPDT and SPDT switches, the mechanism reverses motor polarity to extend and retract the arm. Housed in a laser-cut acrylic enclosure, the project introduced practical circuit assembly, motor control, and mechanical design integration.
 
 ## Useless Box with Modification
 <iframe src="https://drive.google.com/file/d/19cOL0qUbFrW0iyGZsiXRePFPKNT3cxuv/preview" width="480" height="640" allow="autoplay"></iframe>
 
+An Arduino-controlled electromechanical box that playfully reacts to user interaction: this upgraded version of the “useless box” uses an Arduino microcontroller and MOSFET-based motor driver circuit to automate motor control and create reactive behaviors. The system features a “shy” mode—delaying its response after three switch activations—and an “angry” mode—bobbing the arm before turning the switch off after five switch activations. Programmed as a finite state machine, the project highlights the integration of electronics, programming, and mechanical motion to produce dynamic, personality-driven responses.
+
 ## LED Board
 <iframe src="https://drive.google.com/file/d/1bSJbQCQDPLo8lvQsY2VPWcOYsSzFqHnd/preview" width="480" height="640" allow="autoplay"></iframe>
+
+A programmable LED array that displays dynamic patterns: this project uses high-intensity blue LEDs soldered onto a printed circuit board with an Arduino and driver circuitry. The LEDs are controlled using a pMOS transistor circuit and multiplexing, allowing each LED to be turned on only when its anode (horizontal wire) is high and its cathode (vertical wire) is low, while all other rows and columns are set to prevent unintended illumination. By planning the circuit layout, soldering the LEDs, and debugging connections, the project highlights hands-on experience in electronics assembly, current control, and creating visually engaging programmable displays.
 
 ## Music Board
 <iframe src="https://drive.google.com/file/d/1fTkl2V-wFT-Ex_o3EDu1j0N0tywFn7zB/preview" width="640" height="480" allow="autoplay"></iframe>
