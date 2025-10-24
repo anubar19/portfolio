@@ -33,8 +33,19 @@ Robots built in collaboration with my team for competitive robotics. Each machin
 
 Hand-assembled speakers built from quality components and enclosures. I focused on careful construction, wiring, and finishing to achieve reliable performance and a clean look. While based on established designs, the build process gave me hands-on experience with audio hardware and an appreciation for how craftsmanship impacts sound.
 
-# Other Projects
+# ENGR 40M Labs
+## Solar Charger
+<img src="Files/solar_charger.png" width="600" height="300">
 
+## Useless Box
+
+## Useless Box with Modification
+
+## LED Board
+
+## Music Board
+
+# Other Projects
 ## PureCactus
 Proposal Slides
 <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
