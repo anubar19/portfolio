@@ -56,6 +56,7 @@ A programmable LED array that displays dynamic patterns: this project uses high-
 
 ## Music Board
 <iframe src="https://drive.google.com/file/d/1fTkl2V-wFT-Ex_o3EDu1j0N0tywFn7zB/preview" width="640" height="480" allow="autoplay"></iframe>
+A music-responsive LED display that visualizes sound in real time: the 4×4 LED board is divided into quadrants, each corresponding to a specific frequency range. When a particular range is detected from the audio input, the LEDs in that quadrant illuminate, creating a dynamic visual representation of the music. The project applies analog-to-digital conversion, frequency analysis, and Arduino programming to translate audio signals into engaging, real-time visual patterns.
 
 # Other Projects
 ## PureCactus
