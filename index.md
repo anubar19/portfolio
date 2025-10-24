@@ -1,4 +1,4 @@
-# Anusha Barave Portfolio
+
 # ASL Robotic Hand
 <img src="Files/ASLBotFinal.png" width="400" height="600">
 
