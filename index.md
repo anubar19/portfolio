@@ -38,12 +38,16 @@ Hand-assembled speakers built from quality components and enclosures. I focused 
 <img src="Files/solar_charger.png" width="600" height="300">
 
 ## Useless Box
+<iframe src="https://drive.google.com/file/d/1nA2bQneGOgi17HOmr5WODcjLTr9x6Gkh/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## Useless Box with Modification
+<iframe src="https://drive.google.com/file/d/19cOL0qUbFrW0iyGZsiXRePFPKNT3cxuv/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## LED Board
+<iframe src="https://drive.google.com/file/d/1bSJbQCQDPLo8lvQsY2VPWcOYsSzFqHnd/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## Music Board
+<iframe src="https://drive.google.com/file/d/1fTkl2V-wFT-Ex_o3EDu1j0N0tywFn7zB/preview" width="640" height="480" allow="autoplay"></iframe>
 
 # Other Projects
 ## PureCactus
