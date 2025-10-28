@@ -13,7 +13,23 @@ title: "Anusha Barave Portfolio"
 [View Page](./emotive_robot.md)
 
 # EngineerED
-<a href="https://eng-ed.org/</a>
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Embedded Website Example</title>
+  <style>
+    iframe {
+      width: 100%;
+      height: 90vh;
+      border: none;
+    }
+  </style>
+</head>
+<body>
+  <h1>Check out this website:</h1>
+  <iframe src="https://eng-ed.org/"></iframe>
+</body>
+</html>
 
 # Patents
 MACHINE LEARNING MODEL BASED EMISSIONS OPTIMIZATION CONTROLLER FOR HYBRID POWERED AIRCRAFTS (Patent-pending)
