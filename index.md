@@ -80,9 +80,7 @@ A lightweight flying model powered by elastic energy: this plane uses a rubber b
 
 ## Automata
 <img src="Files/automata.png" width="100" height="200">
-
 <img src="Files/cam_cad.png" width="200" height="100">
-
 <img src="Files/blossom_cad.png" width="200" height="100">
 
 A hand-cranked mechanical automaton built from wood and 3D-printed components. Using a crank and cam system, it generates smooth, repeating motion in a compact frame.
