@@ -11,8 +11,8 @@ title: "Anusha Barave Portfolio"
 
 <!--[View Page](./emotive_robot.md)-->
 
-# [EngineerED Website](https://eng-ed.org/)
-<img src="Files/engineered_web.png" width="300" height="300">
+# [EngineerED](https://eng-ed.org/)
+<img src="Files/engineered_web.png" width="200" height="300">
 
 EngineerED is a 501(c)(3) nonprofit organization, committed to broadening access to science and technology while fostering a love for STEM. We believe every child should have the opportunity to explore and engage with the wonders of these fields. Through our programs, we aim to ignite a passion for learning and discovery, empowering young minds to become the problem-solvers and innovators of the future.
 
@@ -65,7 +65,7 @@ Proposal Slides
 <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
  border-radius: 8px; will-change: transform;">
-  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+  <iframe loading="lazy" style="position: absolute; width: 50%; height: 50%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
     src="https://www.canva.com/design/DAG0bHJUonU/lswZ0qXqCw1GQnm_LVLukA/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
