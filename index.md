@@ -5,12 +5,11 @@ title: "Anusha Barave Portfolio"
 # [ASL Robotic Hand](./asl_robotic_arm.md)
 <img src="Files/ASLBotFinal.png" width="400" height="600">
 
-<!--[View Page](./asl_robotic_arm.md)-->
 
-# Emotive Robot
+# [Emotive Robot](./emotive_robot.md)
 <img src="Files/EmotiveBot.png" width="500" height="550">
 
-[View Page](./emotive_robot.md)
+<!--[View Page](./emotive_robot.md)-->
 
 # [EngineerED Website](https://eng-ed.org/)
 <img src="Files/engineered_web.png" width="600" height="400">
