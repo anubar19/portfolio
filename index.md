@@ -12,7 +12,7 @@ title: "Anusha Barave Portfolio"
 <!--[View Page](./emotive_robot.md)-->
 
 # [EngineerED](https://eng-ed.org/)
-<img src="Files/engineered_web.png" width="200" height="300">
+<img src="Files/engineered_web.png" width="300" height="200">
 
 EngineerED is a 501(c)(3) nonprofit organization, committed to broadening access to science and technology while fostering a love for STEM. We believe every child should have the opportunity to explore and engage with the wonders of these fields. Through our programs, we aim to ignite a passion for learning and discovery, empowering young minds to become the problem-solvers and innovators of the future.
 
