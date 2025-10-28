@@ -13,7 +13,7 @@ title: "Anusha Barave Portfolio"
 [View Page](./emotive_robot.md)
 
 # EngineerED
-<img src="Files/engineered_web.png" width="600" height="500">
+<img src="Files/engineered_web.png" width="600" height="400">
 
 <a href="https://eng-ed.org/" target="_blank">View Website</a>
 
