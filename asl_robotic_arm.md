@@ -9,7 +9,7 @@ The ASL Robotic Arm uses image detection to recognize certain letters and displa
 |:--:|:--:|:--:|:--:|
 | Anusha B. | Monta Vista High School | Mechanical Engineering | Incoming Junior 
 
-<img src="Files/FinalHeadshot.png" width="200" height="300">
+<img src="Files/FinalHeadshot.png" width="230" height="300">
 
 # Demo Night
 
