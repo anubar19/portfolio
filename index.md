@@ -2,21 +2,18 @@
 title: "Anusha Barave Portfolio"
 ---
 
-# ASL Robotic Hand
+# [ASL Robotic Hand](./asl_robotic_arm.md)
 <img src="Files/ASLBotFinal.png" width="400" height="600">
 
-[View Page](./asl_robotic_arm.md)
+<!--[View Page](./asl_robotic_arm.md)-->
 
 # Emotive Robot
 <img src="Files/EmotiveBot.png" width="500" height="550">
 
 [View Page](./emotive_robot.md)
 
-# EngineerED
+# [EngineerED Website](https://eng-ed.org/)
 <img src="Files/engineered_web.png" width="600" height="400">
-
-<a href="https://eng-ed.org/" target="_blank">View Website</a>
-
 
 EngineerED is a 501(c)(3) nonprofit organization, committed to broadening access to science and technology while fostering a love for STEM. We believe every child should have the opportunity to explore and engage with the wonders of these fields. Through our programs, we aim to ignite a passion for learning and discovery, empowering young minds to become the problem-solvers and innovators of the future.
 
