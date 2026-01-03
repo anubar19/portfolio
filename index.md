@@ -35,6 +35,16 @@ Robots built in collaboration with my team for competitive robotics. Each machin
 
 Hand-assembled speakers built from quality components and enclosures. I focused on careful construction, wiring, and finishing to achieve reliable performance and a clean look. While based on established designs, the build process gave me hands-on experience with audio hardware and an appreciation for how craftsmanship impacts sound.
 
+# Aircraft Emissions Research
+## Motivation
+Aviation is a major contributor to greenhouse gas emissions. Such emissions are responsible for the exacerbation of global warming and climate change. I wanted to investigate and model the impact electric aviation can have in mitigating emissions.
+
+## Abstract Summary
+This research applies a Random Forest regression model to predict aircraft emissions using parameters like thrust, fuel flow, and bypass ratio. The model is trained on a publicly available dataset from ICAO Aircraft Engines Databank and is intended to accurately estimate the total carbon dioxide equivalent of an aircraft’s emissions. It explores electric propulsion by simulating fuel flow parameters, finding an average 46% emission reduction potential. The results highlight the promise of ML based modeling for sustainability analysis in aviation.
+
+## Future Work
+Enhance the model to integrate additional electric propulsion variables such as motor efficiency, battery weight, or discharge rate. Also investigate how to incorporate hybrid-powered scenarios with a mix of conventional and electric parameter ranges and equations. This work will depend on availability of experimental and actual data for hybrid aviation which is still in early stages.
+
 # ENGR 40M Labs
 ## Solar Charger
 <img src="Files/solar_charger.png" width="300" height="150">
