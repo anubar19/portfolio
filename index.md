@@ -25,6 +25,7 @@ A ROBOTIC SIMULTANEOUS MULTI-MODAL COMMUNICATIONS ASSISTANT AND TRAINER FOR MEDI
 <img src="Files/clydee.png" width="150" height="250">
 <img src="Files/bonnie.png" width="150" height="250">
 <img src="Files/bella.png" width="150" height="250">
+<img src="Files/vex_bot.png" width="150" height="250">
 
 Robots built in collaboration with my team for competitive robotics. Each machine features custom-designed mechanisms for tasks such as lifting, intaking, and precise control, powered by integrated motors, sensors, and programmed systems. Built for performance under competition rules, these robots balance durability, speed, and adaptability on the field.
 
