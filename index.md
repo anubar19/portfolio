@@ -32,14 +32,13 @@ Robots built in collaboration with my team for competitive robotics. Each machin
 ## Awards
 Link: https://www.robotevents.com/teams/V5RC/12478X
 
-<img src="Files/vex_1.png" width="150" height="250">
-<img src="Files/vex_2.png" width="150" height="250">
-<img src="Files/vex_3.png" width="150" height="250">
-<img src="Files/vex_4.png" width="150" height="250">
-<img src="Files/vex_5.png" width="150" height="250">
-<img src="Files/vex_6.png" width="150" height="250">
-<img src="Files/vex_7.png" width="150" height="250">
-<img src="Files/vex_8.png" width="150" height="250">
+<img src="Files/vex_1.png" width="150" height="200">
+<img src="Files/vex_2.png" width="150" height="200">
+<img src="Files/vex_4.png" width="150" height="200">
+<img src="Files/vex_5.png" width="150" height="200">
+<img src="Files/vex_6.png" width="150" height="200">
+<img src="Files/vex_8.png" width="150" height="200">
+<img src="Files/vex_3.png" width="250" height="200">
 
 # Speakers
 <img src="Files/speaker1.png" width="300" height="250">
