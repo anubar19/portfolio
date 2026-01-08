@@ -30,7 +30,7 @@ A ROBOTIC SIMULTANEOUS MULTI-MODAL COMMUNICATIONS ASSISTANT AND TRAINER FOR MEDI
 Robots built in collaboration with my team for competitive robotics. Each machine features custom-designed mechanisms for tasks such as lifting, intaking, and precise control, powered by integrated motors, sensors, and programmed systems. Built for performance under competition rules, these robots balance durability, speed, and adaptability on the field.
 
 ## Awards
-Link: https://www.robotevents.com/teams/V5RC/12478X
+**Link: https://www.robotevents.com/teams/V5RC/12478X**
 
 <img src="Files/vex_1.png" width="150" height="200">
 <img src="Files/vex_2.png" width="150" height="200">
