@@ -11,16 +11,6 @@ title: "Anusha Barave Portfolio"
 
 <!--[View Page](./emotive_robot.md)-->
 
-# [EngineerED](https://eng-ed.org/)
-<img src="Files/engineered_web.png" width="300" height="200">
-
-EngineerED is a 501(c)(3) nonprofit organization, committed to broadening access to science and technology while fostering a love for STEM. We believe every child should have the opportunity to explore and engage with the wonders of these fields. Through our programs, we aim to ignite a passion for learning and discovery, empowering young minds to become the problem-solvers and innovators of the future.
-
-# Patents
-MACHINE LEARNING MODEL BASED EMISSIONS OPTIMIZATION CONTROLLER FOR HYBRID POWERED AIRCRAFTS (Patent-pending)
-
-A ROBOTIC SIMULTANEOUS MULTI-MODAL COMMUNICATIONS ASSISTANT AND TRAINER FOR MEDICAL CLINICIANS (Patent-pending)
-
 # Robotics (Team 12478X, Bobaionics)
 <img src="Files/clydee.png" width="150" height="250">
 <img src="Files/bonnie.png" width="150" height="250">
@@ -56,6 +46,11 @@ This research applies a Random Forest regression model to predict aircraft emiss
 ## Future Work
 Enhance the model to integrate additional electric propulsion variables such as motor efficiency, battery weight, or discharge rate. Also investigate how to incorporate hybrid-powered scenarios with a mix of conventional and electric parameter ranges and equations. This work will depend on availability of experimental and actual data for hybrid aviation which is still in early stages.
 
+# Patents
+MACHINE LEARNING MODEL BASED EMISSIONS OPTIMIZATION CONTROLLER FOR HYBRID POWERED AIRCRAFTS (Patent-pending)
+
+A ROBOTIC SIMULTANEOUS MULTI-MODAL COMMUNICATIONS ASSISTANT AND TRAINER FOR MEDICAL CLINICIANS (Patent-pending)
+
 # ENGR 40M Labs
 ## Solar Charger
 <img src="Files/solar_charger.png" width="300" height="150">
@@ -80,6 +75,11 @@ A programmable LED array that displays dynamic patterns: this project uses high-
 ## Music Board
 <iframe src="https://drive.google.com/file/d/1fTkl2V-wFT-Ex_o3EDu1j0N0tywFn7zB/preview" width="320" height="240" allow="autoplay"></iframe>
 A music-responsive LED display that visualizes sound in real time: the 4×4 LED board is divided into quadrants, each corresponding to a specific frequency range. When a particular range is detected from the audio input, the LEDs in that quadrant illuminate, creating a dynamic visual representation of the music. The project applies analog-to-digital conversion, frequency analysis, and Arduino programming to translate audio signals into engaging, real-time visual patterns.
+
+# [EngineerED](https://eng-ed.org/)
+<img src="Files/engineered_web.png" width="300" height="200">
+
+EngineerED is a 501(c)(3) nonprofit organization, committed to broadening access to science and technology while fostering a love for STEM. We believe every child should have the opportunity to explore and engage with the wonders of these fields. Through our programs, we aim to ignite a passion for learning and discovery, empowering young minds to become the problem-solvers and innovators of the future.
 
 # Other Projects
 ## PureCactus
